@@ -11,4 +11,5 @@ func main() {
 	fmt.Println("test")
 	NewUser()
 	fmt.Println("abc")
+	fmt.Println("def")
 }
