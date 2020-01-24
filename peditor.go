@@ -20,6 +20,7 @@ func MoveDown() {
 
 func MoveLeft() {
 	fmt.Println("Left!")
+	fmt.Println("test")
 }
 
 func main() {
